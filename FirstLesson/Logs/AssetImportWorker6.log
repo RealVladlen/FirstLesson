@@ -1,0 +1,327 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.4f1 (cb45f9cae8b7) revision 13321721'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'ru' Physical Memory: 16237 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+G:\UnityEditors\2021.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+H:/Учёба/Проекты/FirstLesson/FirstLesson/FirstLesson
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+60232
+Successfully changed project path to: H:/Учёба/Проекты/FirstLesson/FirstLesson/FirstLesson
+H:/Учёба/Проекты/FirstLesson/FirstLesson/FirstLesson
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 156.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path G:/UnityEditors/2021.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/Учёба/Проекты/FirstLesson/FirstLesson/FirstLesson/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   31.0.15.1640
+Initialize mono
+Mono path[0] = 'G:/UnityEditors/2021.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'G:/UnityEditors/2021.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'G:/UnityEditors/2021.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/UnityEditors/2021.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: G:/UnityEditors/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: G:/UnityEditors/2021.3.4f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: G:/UnityEditors/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: G:/UnityEditors/2021.3.4f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.002964 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 116.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.848 seconds
+Domain Reload Profiling:
+	ReloadAssembly (848ms)
+		BeginReloadAssembly (80ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (633ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (146ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (391ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (78ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (117ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (126ms)
+				ProcessInitializeOnLoadMethodAttributes (67ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004269 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image H:\Учёба\Проекты\FirstLesson\FirstLesson\FirstLesson\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image H:\Учёба\Проекты\FirstLesson\FirstLesson\FirstLesson\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.546 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1547ms)
+		BeginReloadAssembly (273ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (147ms)
+		EndReloadAssembly (1117ms)
+			LoadAssemblies (108ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (370ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (522ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (31ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (330ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (111.0 KB). Loaded Objects now: 3828.
+Memory consumption went from 118.6 MB to 118.5 MB.
+Total: 3.898400 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.198600 ms MarkObjects: 3.200700 ms  DeleteObjects: 0.119900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 918936.275047 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Bioma1_Floating_Isle.fbx
+  artifactKey: Guid(724dddd6626e6d94b9d240ef12c6f9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Bioma1_Floating_Isle.fbx using Guid(724dddd6626e6d94b9d240ef12c6f9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f2f8c2824940cf659da3f10191bad3') in 0.237745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Mushroom_Small_0_1.fbx
+  artifactKey: Guid(7aff1d3fc586b414e96e805ba2bc848b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Mushroom_Small_0_1.fbx using Guid(7aff1d3fc586b414e96e805ba2bc848b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58477f7bbb031ece633466dddc9f2479') in 0.023648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Tree_Trunk_Medium_0_1.fbx
+  artifactKey: Guid(24f1fd55d3e53f94abcbad18141b5030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Tree_Trunk_Medium_0_1.fbx using Guid(24f1fd55d3e53f94abcbad18141b5030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b8f5c6eeeb38b169486dc2772ea1ba') in 0.021375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Tree_03_Medium.fbx
+  artifactKey: Guid(e91991ac68256674cb666e05cb37bd8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Tree_03_Medium.fbx using Guid(e91991ac68256674cb666e05cb37bd8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cdd9b55920c52897ac18bb08dcd62be') in 0.022891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Props_Rocks_Small_0_1.fbx
+  artifactKey: Guid(38e2e172da7ad634ba130815fdad2bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Props_Rocks_Small_0_1.fbx using Guid(38e2e172da7ad634ba130815fdad2bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6021bf8425bf2b4e975c59f8c1525c') in 0.022309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Crate_Small_0_1.fbx
+  artifactKey: Guid(98fd234180d8afb45a0100ebcd76a4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Crate_Small_0_1.fbx using Guid(98fd234180d8afb45a0100ebcd76a4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71c226018e0c63cc9513fbf4b251e91') in 0.021709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Root1_Tree_Small_0_1.fbx
+  artifactKey: Guid(ce16d0ebed1d7584a8bc3bf8360f54de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Root1_Tree_Small_0_1.fbx using Guid(ce16d0ebed1d7584a8bc3bf8360f54de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093fb2129db3bfabe4b667a8217cf72c') in 0.022706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Grass_Tall_Small_0_1.fbx
+  artifactKey: Guid(c55e75329ac7f3c47994647009c92ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Grass_Tall_Small_0_1.fbx using Guid(c55e75329ac7f3c47994647009c92ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9f57d392394434a4db5e16249609b8') in 0.021189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Floating_Rocks_Bioma1.fbx
+  artifactKey: Guid(e886c81807a33034ea70b36b7bc50faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Floating_Rocks_Bioma1.fbx using Guid(e886c81807a33034ea70b36b7bc50faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3077d22fd0ad9542fc2b9a56ca368f83') in 0.162451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Tree_06_Medium.fbx
+  artifactKey: Guid(8e1ff9b210654494a864f5f8365ef97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Tree_06_Medium.fbx using Guid(8e1ff9b210654494a864f5f8365ef97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c29b7d0df05559c47ea07135d174459') in 0.027786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Unvik_3D/Woodland/FBX/Trunk_Big_0_1.fbx
+  artifactKey: Guid(f619b3387c1a6a043a395adc4d0e7ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/FBX/Trunk_Big_0_1.fbx using Guid(f619b3387c1a6a043a395adc4d0e7ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be5b7a4573a095a934a3c5e788c1745') in 0.024295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.503078 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Textures/Gradients_02.png
+  artifactKey: Guid(1c161f4059197e6438552bbf13749990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Textures/Gradients_02.png using Guid(1c161f4059197e6438552bbf13749990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b93bed0c2bc9ed30c37e0ff30b35d9') in 0.066980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.657991 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Floating_Island_01.prefab
+  artifactKey: Guid(b4a88aee496a96d49aee9abc46419cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Floating_Island_01.prefab using Guid(b4a88aee496a96d49aee9abc46419cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f00d6841f962df259a510a087a2acf3') in 0.031533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_06.prefab
+  artifactKey: Guid(c444064da803adf4a9c1b2c45b8d8e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_06.prefab using Guid(c444064da803adf4a9c1b2c45b8d8e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932a9e2b4b53f851bfd495b834672135') in 0.016846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_03.prefab
+  artifactKey: Guid(01a60b79a8355b045bc3037a12c9333d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_03.prefab using Guid(01a60b79a8355b045bc3037a12c9333d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de14c8655c03fea8cbdbe7385601b131') in 0.015847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_01.prefab
+  artifactKey: Guid(9fa49baa8ec04224b87fc97cb53be1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_01.prefab using Guid(9fa49baa8ec04224b87fc97cb53be1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df00404dd6a9854198e9e1294bf3b0d') in 0.015764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_09.prefab
+  artifactKey: Guid(e4c10aef563723a4f84ebe34694c8647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_09.prefab using Guid(e4c10aef563723a4f84ebe34694c8647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf9ad3b58705b91d3697eb1aecf5b3fa') in 0.016207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_05.prefab
+  artifactKey: Guid(fe00a14b385d7344ab164c92f1a46e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_05.prefab using Guid(fe00a14b385d7344ab164c92f1a46e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0289fea903cae25ced77391ad3acbc') in 0.016664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Monuntain_Desert_01.prefab
+  artifactKey: Guid(9b8e86e3dcb69a04abe7f4eff1461daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Monuntain_Desert_01.prefab using Guid(9b8e86e3dcb69a04abe7f4eff1461daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d215d9cb86afb9ecef92807c2fcb490') in 0.017915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_07.prefab
+  artifactKey: Guid(c57ddcf2e214de54aa3bbd3aaddff512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Plant_07.prefab using Guid(c57ddcf2e214de54aa3bbd3aaddff512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5af27a7578526f2c7e4b84d1e52159') in 0.015252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Rock_05.prefab
+  artifactKey: Guid(bbc9270084294ba4da8aa8f702727ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Rock_05.prefab using Guid(bbc9270084294ba4da8aa8f702727ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea955b727fe0fdc1209a17578c743d7') in 0.015026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Rock_01.prefab
+  artifactKey: Guid(9a297dc57e88b464f94070684a8ae8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Cross_Plains/Prefabs/CrossPlains_Rock_01.prefab using Guid(9a297dc57e88b464f94070684a8ae8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903e7ed73f9b2913e4f505c2abaf781e') in 0.015249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 459.730211 seconds.
+  path: Assets/low poly pack/Materials/Mat.mat
+  artifactKey: Guid(35ed71596f5afcd41b1a01e69ce8f9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/low poly pack/Materials/Mat.mat using Guid(35ed71596f5afcd41b1a01e69ce8f9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b850cde75a86fc0f4983562810637c74') in 0.048455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 321.949805 seconds.
+  path: Assets/low poly pack/Odject/Construction21.prefab
+  artifactKey: Guid(8b386bafa71442346a7ae3b6268d6564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/low poly pack/Odject/Construction21.prefab using Guid(8b386bafa71442346a7ae3b6268d6564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c14b9d10682dfc3a5990e1331949a70') in 0.027028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/low poly pack/Odject/Construction24.prefab
+  artifactKey: Guid(e7081c039edd6ea4ebbc6f908867bbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/low poly pack/Odject/Construction24.prefab using Guid(e7081c039edd6ea4ebbc6f908867bbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e793b69df923b6798491adfa71868c') in 0.017417 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
